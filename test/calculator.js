@@ -17,7 +17,7 @@ describe('tests to check the working of calculator',function(){
         //expect(result.getText()).toEqual('5');
         homepage.verifyResult();
         
-        browser.sleep(2000);
+        browser.sleep(3000);
 
     });
 });
